@@ -1,0 +1,20 @@
+{
+  "name": "THIRU",
+  "logoURI": "https://cdn.jsdelivr.net/gh/Aruvili/THIRU@main/assets/THIRU.png",
+  "timestamp": "2025-11-24T12:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xcFbB1C51Abe608e9A04949cff6546fA031617D55",
+      "name": "THIRU",
+      "symbol": "TRU",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/Aruvili/THIRU@main/assets/THIRU.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
